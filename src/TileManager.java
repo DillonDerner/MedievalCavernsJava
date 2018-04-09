@@ -41,12 +41,11 @@ public class TileManager {
 
     private void runMonster(Player player) {
         printHelpers.println("Eeep! A Monster!");
-        player.printStats();
         // if player wants to fight
-
         Monster monster = monsterBag.grab(player.getFloor());
+        player.printStats();
+        monster.printStats();
         battleManager.fight(player, monster);
-
     }
 
     private void runEmpty(Player player) {

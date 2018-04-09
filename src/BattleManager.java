@@ -12,7 +12,7 @@ public class BattleManager {
     }
 
     public void fight(Player player, Monster monster) {
-        player.printStats();
+        //player.printStats();
 
 
         ///TODO start here!
