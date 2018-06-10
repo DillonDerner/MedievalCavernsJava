@@ -1,4 +1,4 @@
-import enums.TileType;
+import common.enums.TileType;
 
 import java.util.ArrayList;
 import java.util.List;

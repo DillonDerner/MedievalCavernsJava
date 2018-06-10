@@ -1,4 +1,4 @@
-import enums.TileType;
+import common.enums.TileType;
 
 /**
  * Created by macbook on 4/8/18.

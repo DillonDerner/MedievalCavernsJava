@@ -1,4 +1,4 @@
-import enums.TileType;
+import common.enums.TileType;
 import helpers.PrintHelpers;
 import mobs.Monster;
 

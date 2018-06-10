@@ -1,4 +1,4 @@
-package enums;
+package common.enums;
 
 /**
  * Created by macbook on 4/8/18.
